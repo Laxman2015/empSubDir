@@ -1,0 +1,5 @@
+.DS_Store
+.sonarlint
+dist/
+node_modules/
+notes
