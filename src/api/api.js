@@ -16,6 +16,8 @@ const getSubordinateList = (searchTerm) => {
       })
       .catch((error) => {
         console.log(error);
+        //Resolveing to show no record found
+        resolve("404");
       });
   });
 };
