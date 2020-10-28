@@ -22,4 +22,4 @@ React app should be running on http://localhost:8080/
 
 Screenshot
 
-
+https://github.com/Laxman2015/empSubDir/blob/master/src/images/empSearch.png
